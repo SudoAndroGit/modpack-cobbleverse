@@ -1,0 +1,13 @@
+name = "Navas ZA Megas"
+filename = "zamega-fabric-1.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a76dd7fd89db316eebdc4dfb878887292028abb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7603220
+project-id = 1452045

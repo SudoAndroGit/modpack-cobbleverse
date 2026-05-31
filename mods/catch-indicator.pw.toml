@@ -1,0 +1,13 @@
+name = "Catch Indicator [Cobblemon Addon]"
+filename = "catchindicator-fabric-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64cbe24381672d8ca66c64786a74d2614a227238"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7667664
+project-id = 1431831

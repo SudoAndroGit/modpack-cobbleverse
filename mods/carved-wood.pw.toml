@@ -1,0 +1,13 @@
+name = "Carved Wood"
+filename = "Carved Wood-fabric-1.21.1-1.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b33a37bd0da649d860bf70e32681e49f206e08a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7409722
+project-id = 1335174

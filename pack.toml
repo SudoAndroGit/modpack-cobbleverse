@@ -1,0 +1,13 @@
+name = "Cobbleverse-Serial"
+author = "AndroMailo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "73413f5742c0a9edfdf1d8e022d24d17f6abad65f5a1aa3e46b500ae9ef35aa5"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "1.21.1"

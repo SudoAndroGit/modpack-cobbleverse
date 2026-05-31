@@ -1,0 +1,13 @@
+name = "Room For Two"
+filename = "roomfortwo-fabric-1.21.1-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2734b651da3dec97cc952ab093ddd11433fc5604"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8123968
+project-id = 1548166

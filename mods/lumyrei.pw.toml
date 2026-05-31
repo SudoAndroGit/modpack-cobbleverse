@@ -1,0 +1,13 @@
+name = "LumyREI"
+filename = "LumyREI-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6236a041e4cd52087791d7341dfe795731ad5ac2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7685858
+project-id = 1399760
